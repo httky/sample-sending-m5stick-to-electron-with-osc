@@ -1,6 +1,8 @@
 # sample-sending-m5stick-to-electron-with-osc
 OSCでM5Stickの情報をElectronに送信するサンプルです
 
+![](./thumbnail/capture.gif)
+
 ## Eenvironment
 
 ```
